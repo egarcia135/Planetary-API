@@ -1,5 +1,5 @@
 # Planetary-API
-A RESTful CRUD API I created with Flask. 
+A RESTful CRUD API I created with Flask where I learned how to access my database, authentication(API security), and other common tasks such as retrieving password, creating, deleting, etc..
 ## Dependencies
 - blinker==1.4
 - Click==7.0
